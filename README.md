@@ -2,10 +2,10 @@
   <h1>deepseek-eyes</h1>
   <p>Give DeepSeek eyes — route images through Alibaba Cloud Bailian vision models so models that can't natively see images can still understand them.</p>
 
-  [![GitHub stars](https://img.shields.io/github/stars/20kiki/deepseek-eyes?style=social)](https://github.com/20kiki/deepseek-eyes/stargazers)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-  [![Platform: Claude Code](https://img.shields.io/badge/Platform-Claude%20Code-orange)](https://claude.ai/code)
-  [![Python: 3.8+](https://img.shields.io/badge/Python-3.8%2B-green)](https://python.org)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+  [![Platform](https://img.shields.io/badge/Platform-Claude%20Code-blue)](https://code.claude.com)
+  [![Stars](https://img.shields.io/github/stars/20kiki/deepseek-eyes)](https://github.com/20kiki/deepseek-eyes)
+  [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB)](https://python.org)
 </div>
 
 **Language:** [English](README.md) | [简体中文](zh-CN/README.md)
